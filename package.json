@@ -1,0 +1,9 @@
+{
+    "name": "spor-server",
+    "description": "spor server node.js version",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x"
+    }
+}
